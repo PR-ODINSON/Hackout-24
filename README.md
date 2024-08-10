@@ -14,6 +14,7 @@ This project is an interactive 3D simulation of the solar system, built using Th
 - **Planetary Orbits**: The planets will have orbits to accurately depict their movement around the Sun.
 - **Timeline and Speed Control**: Users will be able to control the simulation's speed and observe the movement of celestial bodies over time.
 - **Realistic Rocket Model**: The current rocket, which is represented as a box, will be replaced with a more realistic 3D model.
+- **User Authentication, History and Rewards System.**
 
 ## Technology Stack
 - **3D Library**: Three.js
@@ -50,9 +51,6 @@ Contributions to the project are welcome! Here's how you can contribute:
 3. Commit your changes (`git commit -m 'Add feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any inquiries or feedback, please contact [Prithviraj Verma](mailto: prithraj120@gmail.com).
