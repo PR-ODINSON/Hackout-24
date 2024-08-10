@@ -1,0 +1,700 @@
+[
+    {
+        "name": "Andromeda",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Chained Maiden"
+        ],
+        "no_of_stars": 8
+    },
+    {
+        "name": "Antlia",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Air Pump"
+        ],
+        "no_of_stars": 3
+    },
+    {
+        "name": "Apus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Bird of Paradise"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Aquarius",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Water Bearer"
+        ],
+        "no_of_stars": 12
+    },
+    {
+        "name": "Aquila",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Eagle"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Ara",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Altar"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Aries",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Ram"
+        ],
+        "no_of_stars": 3
+    },
+    {
+        "name": "Auriga",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Charioteer"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Bootes",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Herdsman"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Caelum",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Chisel"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Camelopardalis",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Giraffe"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Cancer",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Crab"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Canes Venatici",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Hunting Dogs"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Canis Major",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Greater Dog"
+        ],
+        "no_of_stars": 8
+    },
+    {
+        "name": "Canis Minor",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Lesser Dog"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Carina",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Keel"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Cassiopeia",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Seated Queen"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Centaurus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Centaur"
+        ],
+        "no_of_stars": 10
+    },
+    {
+        "name": "Cepheus",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The King"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Cetus",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Whale"
+        ],
+        "no_of_stars": 8
+    },
+    {
+        "name": "Chamaeleon",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Chameleon"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Circinus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Compass"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Columba",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Dove"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Coma Berenices",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "Berenice's Hair"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Corona Australis",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Southern Crown"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Corona Borealis",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Northern Crown"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Corvus",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Crow"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Crater",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Cup"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Crux",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Southern Cross"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Cyclops",
+        "day_of_occurrence": "N/A",
+        "common_names": [
+            "N/A"
+        ],
+        "no_of_stars": 0
+    },
+    {
+        "name": "Delphinus",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Dolphin"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Dorado",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Dorado Fish"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Draco",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Dragon"
+        ],
+        "no_of_stars": 11
+    },
+    {
+        "name": "Equuleus",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Little Horse"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Eridanus",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The River"
+        ],
+        "no_of_stars": 8
+    },
+    {
+        "name": "Fornax",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Furnace"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Gemini",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Twins"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Grus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Crane"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Hercules",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Strongman"
+        ],
+        "no_of_stars": 13
+    },
+    {
+        "name": "Horologium",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Clock"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Hydra",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Water Serpent"
+        ],
+        "no_of_stars": 9
+    },
+    {
+        "name": "Hydrus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Lesser Water Snake"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Indus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Indian"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Lacerta",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Lizard"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Leo",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Lion"
+        ],
+        "no_of_stars": 9
+    },
+    {
+        "name": "Leo Minor",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Lesser Lion"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Lepus",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Hare"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Libra",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Scales"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Lupus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Wolf"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Lynx",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Lynx"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Lyra",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Lyre"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Mensa",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Table Mountain"
+        ],
+        "no_of_stars": 3
+    },
+    {
+        "name": "Microscopium",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Microscope"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Monoceros",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Unicorn"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Musca",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Fly"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Norma",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Square"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Octans",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Octant"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Ophiuchus",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Serpent Bearer"
+        ],
+        "no_of_stars": 10
+    },
+    {
+        "name": "Orion",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Hunter"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Pavo",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Peacock"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Pegasus",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Winged Horse"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Perseus",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Hero"
+        ],
+        "no_of_stars": 10
+    },
+    {
+        "name": "Phoenix",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Phoenix"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Pictor",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Painter's Easel"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Pisces",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Fishes"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Piscis Austrinus",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Southern Fish"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Puppis",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Stern"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Pyxis",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Compass"
+        ],
+        "no_of_stars": 4
+    },
+    {
+        "name": "Reticulum",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Net"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Sagitta",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Arrow"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Sagittarius",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Archer"
+        ],
+        "no_of_stars": 12
+    },
+    {
+        "name": "Scorpius",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Scorpion"
+        ],
+        "no_of_stars": 18
+    },
+    {
+        "name": "Sculptor",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Sculptor"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Scutum",
+        "day_of_occurrence": "Autumn",
+        "common_names": [
+            "The Shield"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Serpens",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Serpent"
+        ],
+        "no_of_stars": 9
+    },
+    {
+        "name": "Sextans",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Sextant"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Taurus",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Bull"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Telescopium",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Telescope"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Triangulum",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Triangle"
+        ],
+        "no_of_stars": 3
+    },
+    {
+        "name": "Triangulum Australe",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Southern Triangle"
+        ],
+        "no_of_stars": 3
+    },
+    {
+        "name": "Tucana",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Toucan"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Ursa Major",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Great Bear",
+            "Big Dipper"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Ursa Minor",
+        "day_of_occurrence": "Winter",
+        "common_names": [
+            "The Little Bear",
+            "Little Dipper"
+        ],
+        "no_of_stars": 7
+    },
+    {
+        "name": "Vela",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Sails"
+        ],
+        "no_of_stars": 6
+    },
+    {
+        "name": "Virgo",
+        "day_of_occurrence": "Spring",
+        "common_names": [
+            "The Virgin"
+        ],
+        "no_of_stars": 12
+    },
+    {
+        "name": "Volans",
+        "day_of_occurrence": "Southern Hemisphere",
+        "common_names": [
+            "The Flying Fish"
+        ],
+        "no_of_stars": 5
+    },
+    {
+        "name": "Vulpecula",
+        "day_of_occurrence": "Summer",
+        "common_names": [
+            "The Fox"
+        ],
+        "no_of_stars": 6
+    }
+]
