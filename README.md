@@ -3,18 +3,15 @@
 ## Overview
 This project is an interactive 3D simulation of the solar system, built using Three.js. The goal is to create an educational platform where users can explore the solar system, interact with celestial bodies, and learn about them in an engaging way.
 
-## Current Features (Phase 2)
+## Features 
 - **Solar System Model**: A 3D representation of the solar system, complete with planets and the Sun.
 - **Controllable Rocket**: Users can control a rocket within the simulation. The rocket can move through space using keyboard controls.
-- **Planet Interaction**: When the rocket approaches a planet and the user presses the Enter key, an alert message displaying the planet's details is shown.
+- **Planet Interaction**: When the rocket approaches a planet, a message displaying the planet's details is shown.
 - **Keyboard Controls**: The rocket can be navigated using the arrow keys or WASD for movement.
-
-## Upcoming Features
 - **Detailed Information Cards**: Instead of an alert message, detailed cards will appear with information about each planet.
 - **Planetary Orbits**: The planets will have orbits to accurately depict their movement around the Sun.
-- **Timeline and Speed Control**: Users will be able to control the simulation's speed and observe the movement of celestial bodies over time.
 - **Realistic Rocket Model**: The current rocket, which is represented as a box, will be replaced with a more realistic 3D model.
-- **User Authentication, History and Rewards System.**
+- **User Authentication, History and Rewards System.**: The user can save his progress, as well as for every visit to a plane he recieves a card of that planet.
 
 ## Technology Stack
 - **3D Library**: Three.js
